@@ -1,0 +1,18 @@
+ class MyCLIProject::Scraper
+  webpage-nokogiri::HTML (open(url)
+    binding.pry
+    
+ def self.scraper_project(url)
+   puts mycliproject::Scraper.scrape_catagories(url)
+   
+   
+  # scrape the electronics page
+  # http://www.bradsdeals.com/catagories/electronics
+  
+  
+  
+ end
+ 
+ end
+ 
+ 
